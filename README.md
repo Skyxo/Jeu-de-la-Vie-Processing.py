@@ -1,4 +1,3 @@
-````markdown
 # Game-of-Life Editor ★ Processing.py
 
 **Interactive Conway’s Game of Life playground** powered by **Processing 3 (Python mode)** and **ControlP5**.  
